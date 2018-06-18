@@ -1,11 +1,9 @@
-
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyAumWjMda0SE_RKUInM0Q8duvTs1yFHIAY",
-    authDomain: "final-pokemon.firebaseapp.com",
-    databaseURL: "https://final-pokemon.firebaseio.com",
-    projectId: "final-pokemon",
-    storageBucket: "",
-    messagingSenderId: "133455095748"
-  };
-  firebase.initializeApp(config);
+var config = {
+  apiKey: "AIzaSyDDhVArihzkEg7R5nyywepVSzeeV1yXx9E",
+  authDomain: "final-project-a821d.firebaseapp.com",
+  databaseURL: "https://final-project-a821d.firebaseio.com",
+  projectId: "final-project-a821d",
+  storageBucket: "",
+  messagingSenderId: "397450224385"
+};
+firebase.initializeApp(config);
